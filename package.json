@@ -1,0 +1,23 @@
+{
+  "name": "panorama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBearo/panorama.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MBearo/panorama/issues"
+  },
+  "homepage": "https://github.com/MBearo/panorama#readme",
+  "dependencies": {
+    "three": "^0.112.1"
+  }
+}
